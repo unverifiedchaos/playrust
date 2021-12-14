@@ -1,7 +1,0 @@
-/home/saif/projects/playrust/target/debug/deps/percent_encoding-ab63f59cece6956f.rmeta: /home/saif/.cargo/registry/src/github.com-1ecc6299db9ec823/percent-encoding-2.1.0/lib.rs
-
-/home/saif/projects/playrust/target/debug/deps/libpercent_encoding-ab63f59cece6956f.rlib: /home/saif/.cargo/registry/src/github.com-1ecc6299db9ec823/percent-encoding-2.1.0/lib.rs
-
-/home/saif/projects/playrust/target/debug/deps/percent_encoding-ab63f59cece6956f.d: /home/saif/.cargo/registry/src/github.com-1ecc6299db9ec823/percent-encoding-2.1.0/lib.rs
-
-/home/saif/.cargo/registry/src/github.com-1ecc6299db9ec823/percent-encoding-2.1.0/lib.rs:
