@@ -1,0 +1,12 @@
+/home/saif/projects/playrust/target/rls/debug/deps/proc_macro2-1d5c90660cd319e4.rmeta: /home/saif/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.33/src/lib.rs /home/saif/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.33/src/marker.rs /home/saif/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.33/src/parse.rs /home/saif/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.33/src/detection.rs /home/saif/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.33/src/fallback.rs /home/saif/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.33/src/wrapper.rs
+
+/home/saif/projects/playrust/target/rls/debug/deps/libproc_macro2-1d5c90660cd319e4.rlib: /home/saif/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.33/src/lib.rs /home/saif/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.33/src/marker.rs /home/saif/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.33/src/parse.rs /home/saif/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.33/src/detection.rs /home/saif/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.33/src/fallback.rs /home/saif/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.33/src/wrapper.rs
+
+/home/saif/projects/playrust/target/rls/debug/deps/proc_macro2-1d5c90660cd319e4.d: /home/saif/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.33/src/lib.rs /home/saif/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.33/src/marker.rs /home/saif/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.33/src/parse.rs /home/saif/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.33/src/detection.rs /home/saif/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.33/src/fallback.rs /home/saif/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.33/src/wrapper.rs
+
+/home/saif/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.33/src/lib.rs:
+/home/saif/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.33/src/marker.rs:
+/home/saif/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.33/src/parse.rs:
+/home/saif/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.33/src/detection.rs:
+/home/saif/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.33/src/fallback.rs:
+/home/saif/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.33/src/wrapper.rs:

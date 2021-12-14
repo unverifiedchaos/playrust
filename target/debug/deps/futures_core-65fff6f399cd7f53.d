@@ -1,0 +1,11 @@
+/home/saif/projects/playrust/target/debug/deps/futures_core-65fff6f399cd7f53.rmeta: /home/saif/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-core-0.3.18/src/lib.rs /home/saif/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-core-0.3.18/src/future.rs /home/saif/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-core-0.3.18/src/stream.rs /home/saif/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-core-0.3.18/src/task/mod.rs /home/saif/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-core-0.3.18/src/task/poll.rs /home/saif/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-core-0.3.18/src/task/__internal/mod.rs /home/saif/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-core-0.3.18/src/task/__internal/atomic_waker.rs
+
+/home/saif/projects/playrust/target/debug/deps/futures_core-65fff6f399cd7f53.d: /home/saif/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-core-0.3.18/src/lib.rs /home/saif/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-core-0.3.18/src/future.rs /home/saif/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-core-0.3.18/src/stream.rs /home/saif/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-core-0.3.18/src/task/mod.rs /home/saif/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-core-0.3.18/src/task/poll.rs /home/saif/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-core-0.3.18/src/task/__internal/mod.rs /home/saif/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-core-0.3.18/src/task/__internal/atomic_waker.rs
+
+/home/saif/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-core-0.3.18/src/lib.rs:
+/home/saif/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-core-0.3.18/src/future.rs:
+/home/saif/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-core-0.3.18/src/stream.rs:
+/home/saif/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-core-0.3.18/src/task/mod.rs:
+/home/saif/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-core-0.3.18/src/task/poll.rs:
+/home/saif/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-core-0.3.18/src/task/__internal/mod.rs:
+/home/saif/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-core-0.3.18/src/task/__internal/atomic_waker.rs:
